@@ -20,7 +20,7 @@ It translates text to Morse code, Morse code back to text, and synthesizes pure,
 
 ---
 
-## MORSE TIMING (THE GRANDPA SPEC)
+## MORSE TIMING
 
 Standard Morse code uses a strict 1:3 ratio for dots and dashes. I adjusted the dash duration to a `unit_duration * 5` because I am a benevolent developer who cares about accessibility. 
 
