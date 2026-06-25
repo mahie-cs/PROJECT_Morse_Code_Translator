@@ -1,5 +1,11 @@
 # ULTIMATE MORSE CODE TRANSLATOR (WITH REAL AUDIO)
 
+ _       __     __                        
+| |     / /__  / /________  ____ ___  ___ 
+| | /| / / _ \/ / ___/ __ \/ __ `__ \/ _ \
+| |/ |/ /  __/ / /__/ /_/ / / / / / /  __/
+|__/|__/\___/_/\___/\____/_/ /_/ /_/\___/ 
+                                          
 This is my first official Python project!
 It translates text to Morse code, Morse code back to text, and synthesizes pure, high-quality audio on the fly.
 
